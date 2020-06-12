@@ -22,7 +22,7 @@ Besides the aforementioned tasks, we believe RIT-18 dataset is potential for oth
 <a name="download"></a>
 ## :file_cabinet:  Download 
 
-Download [here](https://pht180.rit.edu/actionlab/rit-18)
+Download [here](https://drive.google.com/file/d/1gHNzXOSZMS-kR-cml_qqzRd0jeZSystt/view?usp=sharing)
 
 <a name="details-of-dataset"></a>
 ## :card_index_dividers:  Details of Dataset
