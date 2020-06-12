@@ -120,15 +120,6 @@ e.g.
 <a name="benchmark"></a>
 ## :construction:  Benchmark 
 
-### Group activity recognition
-
-<img src="assets/benchmark-recognition.png" 
-alt="Group Activity Recognition Benchmark on RIT-18" width="800"/></a>
-
-### Group acitivity anticipation
-
-<img src="assets/benchmark-anticipation.png" 
-alt="Group Activity Anticipation Benchmark on RIT-18" width="800"/></a>
 ### Rally-level winner prediction
 Winner Prediction baseline test.
 ```
