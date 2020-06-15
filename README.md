@@ -137,11 +137,11 @@ alt="Poster" width="512"/></a>
 Please cite our CVPR Workshop paper if use this dataset.
 
 ```
-@InProceedings{RIT18_2020_CVPR_Workshops,
-    author = {Chen, Junwen and Hao, Haiting and Hong, Hanbin and Kong, Yu},
-    title  = {RIT-18: A Novel Dataset for Compositional Group Activity Understanding},
-    booktitle = {Women in Computing, },
-    month  = {June},
-    year   = {2020}
+@InProceedings{Chen_2020_CVPR_Workshops,
+author = {Chen, Junwen and Hao, Haiting and Hong, Hanbin and Kong, Yu},
+title = {RIT-18: A Novel Dataset for Compositional Group Activity Understanding},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2020}
 }
 ```
